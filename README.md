@@ -9,10 +9,10 @@ I graduated with a master's degree in signal processing and machine learning fro
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=6990ec)
 
 ![](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bb)
-![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bb)
+![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bb)
 ![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bb)
 ![](https://img.shields.io/badge/ML-SciKitLearn-informational?style=flat&logo=SciKitLearn&logoColor=white&color=2bb)
-![](https://img.shields.io/badge/ML-Scipy-informational?style=flat&logo=Scipy&logoColor=white&color=2bb)
+![](https://img.shields.io/badge/ML-SciPy-informational?style=flat&logo=Scipy&logoColor=white&color=2bb)
 ![](https://img.shields.io/badge/ML-NLTK-informational?style=flat&logo=Nltk&logoColor=white&color=2bb)
 
 ![](https://img.shields.io/badge/Web-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
