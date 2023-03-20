@@ -23,7 +23,7 @@ I graduated with a master's degree in signal processing and machine learning fro
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayoungkim-tech&langs_count=3&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayoungkim-tech&count_private=true&langs_count=3&hide=QMake&theme=vue-dark" />
 
 <!--
 **ayoungkim-tech/ayoungkim-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
